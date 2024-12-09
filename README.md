@@ -1,7 +1,7 @@
 #  Coffee Shop Website (Figma)
 ------------- 
 #### Project Overview
-This project is a design for a ** Coffee Shop Website**, created using **Figma**. It contains servel primary pages, each crafted with two design phases: **wireframe**, **mockup**.
+This project is a design for a **Coffee Shop Website**, created using **Figma**. It contains servel primary pages, each crafted with two design phases: **wireframe**, **mockup**.
 
 The pages are:
 
